@@ -1,15 +1,15 @@
 const CONFIG = {
     introTitle: 'EM àaa!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Hong biết anh đã cua em bao nhiêu lần rồi nhờ
+    Để đếm coi 1 2 3 hummm
+    Hong đêm xuể lunnn
+    Mà sao cứ thương hoài hong dứt vậy ta`,
     btnIntro: 'hihi',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Thử nghe bài nhắn tới khoảng trời của em iii 😙',
+    desc: 'lời anh muốn nói trong bài hát hummmm giờ sao nè ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Sao em lại chọn anh dạ <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
